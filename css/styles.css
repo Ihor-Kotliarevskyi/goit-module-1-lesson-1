@@ -1,25 +1,36 @@
 * {
     font-family: "Montserrat", sans-serif;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #111111;
 }
 
 /* body {
     font-family: ;
 } */
 
-.logo > span {
-    font-family: "Montserrat-BoldItalic", Helvetica;
+.header-logo {
+    font-family: "Montserrat", Helvetica;
     font-weight: 700;
-    font-style: italic;
+    text-transform: uppercase;
+    font-style: normal;
+    line-height: 20px;
     letter-spacing: -0.10px;
     color: #111111;
     font-size: 18px;
 }
 
-.logo {
-    font-family: "Montserrat-BoldItalic", Helvetica;
-    font-weight: 700;
-    font-style: normal;
-    letter-spacing: -0.10px;
-    color: #111111;
-    font-size: 18px;
+.header-logo-italic {
+    font-style: italic;
+}
+
+.hero-banner {
+    background-image: url(/images/chocolate-covered-cocoa-powder.png);
+    width: 1136px;
+    height: 600px;
+    background-size: contain;
+    border-radius: 30px;
 }
