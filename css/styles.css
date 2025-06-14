@@ -3,14 +3,20 @@
     list-style-type: none;
 }
 
+/* body {
+    font-family: ;
+} */
+
 a {
     text-decoration: none;
     color: #111111;
 }
 
-/* body {
-    font-family: ;
-} */
+/* Navigation section START */
+
+.header {}
+
+.header-nav {}
 
 .header-logo {
     font-family: "Montserrat", Helvetica;
@@ -27,6 +33,12 @@ a {
     font-style: italic;
 }
 
+.header-nav-link {}
+
+/* Navigation section END */
+
+/* Hero section START */
+
 .hero-banner {
     background-image: url(/images/chocolate-covered-cocoa-powder.png);
     width: 1136px;
@@ -34,3 +46,130 @@ a {
     background-size: contain;
     border-radius: 30px;
 }
+
+.hero-title {}
+
+.hero-button-primery {}
+
+.hero-button-secondary {}
+
+.hero-scroll-link {}
+
+.hero-scroll-image {}
+
+/* Hero section END */
+
+/* Benefits section START */
+
+.benefits {}
+
+.benefits-list {}
+
+.benefits-list-item {}
+
+.benefits-item-icon {}
+
+.benefits-item-title {}
+
+.benefits-item-description {}
+
+/* Benefits section END */
+
+/*  Taste section START */
+
+.taste {}
+
+.taste-title {}
+
+.taste-description {}
+
+.taste-list {}
+
+.taste-list-item {}
+
+.taste-list-link {}
+
+.taste-list-image {}
+
+/*  Taste section END */
+
+/* Recipe section START */
+
+.recipe {}
+
+.recipe-title {}
+
+.recipe-image {}
+
+.recipe-subsection {}
+
+.recipe-subtitle {}
+
+.recipe-list {}
+
+.recipe-list-item {}
+
+.recipe-list-description {}
+
+/* Recipe section END */
+
+/*  Review section START */
+
+.review {}
+
+.review-title {}
+
+.review-list {}
+
+.review-list-item {}
+
+.recipe-list-image {}
+
+.review-list-title {}
+
+.review-list-description {}
+
+.review-button-secondary {}
+
+.review-button {}
+
+/*  Review section END */
+
+/*  Footer section START */
+
+.footer {}
+
+.footer-title {}
+
+.footer-contacts {}
+
+.footer-contacts-text {}
+
+.footer-contacts-address {}
+
+.footer-contacts-address-list {}
+
+.footer-contacts-tel {}
+
+.footer-contacts-tel-link {}
+
+.footer-contacts-mail {}
+
+.footer-contacts-mail-link {}
+
+.footer-navigation {}
+
+.footer-navigation-list {}
+
+.footer-navigation-list-item {}
+
+.footer-navigation-list-link {}
+
+.footer-subscribe-form {}
+
+.footer-subscribe-button {}
+
+/*  Footer section END */
+
+/*  section START */
+/*  section END */
